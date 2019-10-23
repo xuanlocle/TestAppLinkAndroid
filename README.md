@@ -1,11 +1,15 @@
 # TestAppLinkAndroid
 
-Use adb or android device test with URLs below after installed:
-http://www.example.com/link1
-https://www.example.com/link1
-http://www.example.com/link2
-https://www.example.com/link2?data=12345&test=123&test2=456
+![](demo.gif)
+
+Use adb or android device test with URLs below after installed: <br>
+http://www.example.com/link1 <br>
+https://www.example.com/link1 </br>
+http://www.example.com/link2<br>
+https://www.example.com/link2?data=12345&test=123&test2=456<br>
 app://www.example.com/link1
+
+
 
 The way to test by adb: 
 1. Run cmd.
