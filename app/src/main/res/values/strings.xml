@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAppLink</string>
+    <string name="filter_view_link1">Link1</string>
+    <string name="filter_view_link2">Link2</string>
+    <string name="dummy">Dummy-data:</string>
+
+</resources>
